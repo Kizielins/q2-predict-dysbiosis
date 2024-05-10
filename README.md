@@ -4,7 +4,9 @@
 Sample inputs can be found in the "test_files" folder.
 
 Taxonomy table: standard QIIME 2 *qza feature table, collapsed to species level, with removed "s__" and underscores instead of spaces (ie "Escherichia_coli")
+
 Stratified pathways table: standard QIIME 2 *qza feature table, produced by HUMAnNN, collapsed to species level, with underscores instead of spaces (ie ANAEROFRUCAT-PWY:_homolactic_fermentation|g__Citrobacter.s__Citrobacter_freundii)
+
 Unstratified pathways table: standard QIIME 2 *qza feature table, produced by HUMAnNN, with underscores instead of spaces (ie AEROBACTINSYN-PWY:_aerobactin_biosynthesis)
 Metadata: standard QIIME 2 metadata format, with "id" and columns representing sample IDs and labelling.
 The values in all tables should be expressed as relative abundance.
