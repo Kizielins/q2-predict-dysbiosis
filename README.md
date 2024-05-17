@@ -19,5 +19,3 @@ The easiest way to run the script is to clone the repository, modify the "run_q2
 ## Original publication / citation
 If you want to learn more about this method, or to cite it, please refer to our article: https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4
 
-## Acknowledgements
-We would like to acknowledge the Authors of the q2-health-index plugin, whose scripts formed the foundation of our work.
