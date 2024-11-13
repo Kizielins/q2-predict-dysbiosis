@@ -24,5 +24,5 @@ The values in all tables should be expressed as relative abundance.
 The easiest way to run the script is to clone the repository, modify the "run_q2_predict_dysbiosis.py" accordingly and run! :)
 
 ## Original publication / citation
-If you want to learn more about this method, or to cite it, please refer to our article: https://www.biorxiv.org/content/10.1101/2023.12.04.569909v4
+If you want to learn more about this method, or to cite it, please refer to our article: https://www.biorxiv.org/content/10.1101/2023.12.04.569909v5
 
