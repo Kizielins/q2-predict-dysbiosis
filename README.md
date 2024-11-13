@@ -7,6 +7,11 @@ The model can be ran in two modes:
 
 For more details please see our manuscript.
 
+## Requirements
+
+Python
+scikit-learn version >= 1.1.3
+
 ## Input prep:
 Sample inputs can be found in the "test_files" folder.
 
