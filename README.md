@@ -1,5 +1,12 @@
 # q2-predict-dysbiosis
 
+This repository contains our function-based gut microbiome health index as well as steps to reproduce analyses contained within our manuscript, linked at the bottom of the page.
+The model can be ran in two modes:
+(a) full model 
+(b) the model without additional taxonomic features (better at predicting diseases that do not originate in the gut)
+
+For more details please see our manuscript.
+
 ## Input prep:
 Sample inputs can be found in the "test_files" folder.
 
