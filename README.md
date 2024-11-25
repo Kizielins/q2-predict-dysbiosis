@@ -34,3 +34,5 @@ The output can be modified within the "run_q2_predict_dysbiosis.py" script, but 
 ## Original publication / citation
 If you want to learn more about this method, or to cite it, please refer to our article: https://www.biorxiv.org/content/10.1101/2023.12.04.569909v5
 
+The scripts required to reproduce our anaylyses can be found in the "supplementary_files" folder.
+
