@@ -1,0 +1,7 @@
+"","meanImp","medianImp","minImp","maxImp","normHits","decision"
+"GMHI_good",1,1,1,1,1,"Confirmed"
+"GMHI_bad",0,0,0,0,0,"Rejected"
+"Frac_of_core_functions_among_all",0,0,0,0,0,"Rejected"
+"Frac_of_core_functions_found",0,0,0,0,0,"Rejected"
+"Species_found_together",0,0,0,0,0,"Rejected"
+"Func_contributions_per_species",0,0,0,0,0,"Rejected"
